@@ -1,0 +1,14 @@
+D:\Projects\tizim\tizim\bin\Debug\net6.0\tizim.exe
+D:\Projects\tizim\tizim\bin\Debug\net6.0\tizim.deps.json
+D:\Projects\tizim\tizim\bin\Debug\net6.0\tizim.runtimeconfig.json
+D:\Projects\tizim\tizim\bin\Debug\net6.0\tizim.dll
+D:\Projects\tizim\tizim\bin\Debug\net6.0\tizim.pdb
+D:\Projects\tizim\tizim\obj\Debug\net6.0\tizim.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\tizim\tizim\obj\Debug\net6.0\tizim.AssemblyInfoInputs.cache
+D:\Projects\tizim\tizim\obj\Debug\net6.0\tizim.AssemblyInfo.cs
+D:\Projects\tizim\tizim\obj\Debug\net6.0\tizim.csproj.CoreCompileInputs.cache
+D:\Projects\tizim\tizim\obj\Debug\net6.0\tizim.dll
+D:\Projects\tizim\tizim\obj\Debug\net6.0\refint\tizim.dll
+D:\Projects\tizim\tizim\obj\Debug\net6.0\tizim.pdb
+D:\Projects\tizim\tizim\obj\Debug\net6.0\tizim.genruntimeconfig.cache
+D:\Projects\tizim\tizim\obj\Debug\net6.0\ref\tizim.dll
